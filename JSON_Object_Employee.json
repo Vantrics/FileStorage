@@ -1,7 +1,7 @@
-    {
+{
     "firstname": "Kevin",
     "height": 180,
-    "email": "kevin@gmail.com" ,
+    "email": "kevin@gmail.com",
     "city": {
         "通訊地址": "台北",
         "⼾籍地址": "桃園"
@@ -19,7 +19,7 @@
 {
     "firstname": "Mary",
     "height": 160,
-    "email": "mary@gmail.com" ,
+    "email": "mary@gmail.com",
     "city": {
         "通訊地址": "台北",
         "⼾籍地址": "桃園"
@@ -37,7 +37,7 @@
 {
     "firstname": "Jason",
     "height": 185,
-    "email": "jason@gmail.com" ,
+    "email": "jason@gmail.com",
     "city": {
         "通訊地址": "新竹",
         "⼾籍地址": "新竹"
@@ -55,7 +55,7 @@
 {
     "firstname": "May",
     "height": 168,
-    "email": "may@gmail.com" ,
+    "email": "may@gmail.com",
     "city": {
         "通訊地址": "高雄",
         "⼾籍地址": "高雄"
@@ -73,7 +73,7 @@
 {
     "firstname": "Amy",
     "height": 158,
-    "email": "amy@gmail.com" ,
+    "email": "amy@gmail.com",
     "city": {
         "通訊地址": "花蓮",
         "⼾籍地址": "花蓮"
